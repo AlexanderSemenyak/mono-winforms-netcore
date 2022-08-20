@@ -1,35 +1,16 @@
-[submodule "aspnetwebstack"]
-	path = external/mono/external/aspnetwebstack
-	url = http://source/mono/aspnetwebstack.git
-[submodule "Newtonsoft.Json"]
-	path = external/mono/external/Newtonsoft.Json
-	url = http://source/mono/Newtonsoft-Json.git
-[submodule "cecil"]
-	path = external/mono/external/cecil
-	url = http://source/mono/cecil.git
+[submodule "external/mono"]
+        path = external/mono
+	url = http://source/mono/mono.git
 [submodule "debian-snapshot"]
 	path = external/mono/external/debian-snapshot
 	url = https://github.com/directhex/mono-snapshot.git
 [submodule "entityframework"]
 	path = external/mono/external/entityframework
 	url = https://github.com/mono/entityframework.git
-[submodule "rx"]
-	path = external/mono/external/rx
-	url = http://source/mono/rx.git
-	branch = rx-oss-v2.2
-[submodule "ikvm"]
-	path = external/mono/external/ikvm
-	url = http://source/mono/ikvm-fork.git
 [submodule "external/mono/Lucene.Net"]
 	path = external/mono/external/Lucene.Net
 	url = https://github.com/mono/lucene.net.git
-[submodule "ikdasm"]
-	path = external/mono/external/ikdasm
-	url = http://source/mono/ikdasm.git
 [submodule "referencesource"]
 	path = external/mono/external/referencesource
 	url = https://github.com/roozbehid/referencesource.git
 	branch = mono
-[submodule "reference-assemblies"]
-	path = external/mono/external/reference-assemblies
-	url = http://source/mono/reference-assemblies.git
